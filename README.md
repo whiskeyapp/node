@@ -1,4 +1,4 @@
-client
+Node
 ======
 
-Whiskey Client 
+Whiskey Node 
